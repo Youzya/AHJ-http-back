@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ISeliukov/AHJ-server.git"
+    "url": "git+https://github.com/Youzya/AHJ-server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ISeliukov/AHJ-server/issues"
+    "url": "https://github.com/Youzya/AHJ-server/issues"
   },
-  "homepage": "https://github.com/ISeliukov/AHJ-server#readme",
+  "homepage": "https://github.com/Youzya/AHJ-server#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.15",
     "@babel/core": "^7.22.17",
